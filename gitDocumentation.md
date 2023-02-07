@@ -40,14 +40,12 @@ Git rebase should not be used when working with shared branches. It modifies the
 
 ### Create a new repo and demonstrate your knowledge of the following items with screenshots:
 
-A rebase merge
-![This is an image](<img width="908" alt="Screenshot 2023-02-07 at 12 03 11 PM" src="https://user-images.githubusercontent.com/69979506/217345536-7d6a4d5f-c064-4e1d-946a-794432c1dd6a.png">
+
+![This is an image](<img width="908" alt="Screenshot 2023-02-07 at 12 03 11 PM" src="https://postimg.cc/nXHq6K7W">
 )
-An interactive rebase merge
-![This is an image](<img width="1267" alt="Screenshot 2023-02-07 at 12 07 13 PM" src="https://user-images.githubusercontent.com/69979506/217345559-98f210f1-f9b5-4c4c-8ca0-498892715e94.png">
+
+![This is an image](<img width="1267" alt="Screenshot 2023-02-07 at 12 07 13 PM" src="https://postimg.cc/QBz59RPL">
 )
-When you shouldn't rebase with a remote repo.
-![This is an image]()
 
 
 ## Git reset, checkout, and revert
@@ -79,17 +77,15 @@ Use git revert to roll back changes in a Git repository without erasing the proj
 
 ### Create a new repo and demonstrate your knowledge of the following items with screenshots:
 
-a Git reset
-![This is an image](<img width="1412" alt="Screenshot 2023-02-07 at 12 11 41 PM" src="https://user-images.githubusercontent.com/69979506/217345600-dd6038e3-3906-4388-b1c4-af22aa58c9e7.png">
+
+![This is an image](<img width="1412" alt="Screenshot 2023-02-07 at 12 11 41 PM" src="https://postimg.cc/VrbtjKQJ">
 )
-a Git checkout
-![This is an image](<img width="974" alt="Screenshot 2023-02-07 at 12 16 22 PM" src="https://user-images.githubusercontent.com/69979506/217345622-4007b015-7cb8-425a-b682-571e883d5425.png">
+
+![This is an image](<img width="974" alt="Screenshot 2023-02-07 at 12 16 22 PM" src="https://postimg.cc/RWXw93LZ">
 )
-a commit
-![This is an image](<img width="1147" alt="Screenshot 2023-02-07 at 12 18 47 PM" src="https://user-images.githubusercontent.com/69979506/217345658-ea06c462-e8ca-4768-9f15-746e0e8adb12.png">
+
+![This is an image](<img width="1147" alt="Screenshot 2023-02-07 at 12 18 47 PM" src="https://postimg.cc/p9rzd2sY">
 )
-a Git revert
-![This is an image]()
 
  ##Git submodules
 
