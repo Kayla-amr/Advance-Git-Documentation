@@ -82,7 +82,7 @@ Use git revert to roll back changes in a Git repository without erasing the proj
 
 ![This is an image](https://i.postimg.cc/6QL0YqRS/Screenshot-2023-02-07-at-12-18-47-PM.png)
 
- ##Git submodules
+ ## Git submodules
 
 ### What are Git submodules?
 The contents of one Git repository can be included in another Git repository using Git submodules.
